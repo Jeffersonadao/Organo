@@ -1,0 +1,33 @@
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 2rem;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.rodape-logo img {
+    width: 10.375rem;
+    height: 3.9375rem;
+}
+
+.redes-sociais img {
+    display: flex;
+    width: 2.01925rem;
+    height: 2.1875rem;
+    justify-content: center;
+    flex-shrink: 0;
+}
