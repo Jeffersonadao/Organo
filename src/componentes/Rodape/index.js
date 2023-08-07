@@ -1,7 +1,8 @@
 import './Rodape.css'
 
 const Rodape = () => {
-    return (<footer className="footer">
+    return (
+    <footer className="footer">
         <section className='redes-Sociais'>
             <ul>
                 <li>
