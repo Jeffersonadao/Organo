@@ -2,7 +2,6 @@ Organo
 Aplicação web com cadastro de funcionários e criação dinâmica de cards de funcionários utilizando react js.
 
 Deseja testar? Clique aqui: https://organo-three-olive.vercel.app/
-image
 
 Badge em Desenvolvimento
 
