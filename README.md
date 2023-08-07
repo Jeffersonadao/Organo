@@ -8,7 +8,7 @@
 <img src="/public/imagens/print.png">
 
 
-Deseja testar? Clique aqui: https://organo-three-olive.vercel.app/
+Deseja testar? Clique aqui: https://organo-jeffersonadao.vercel.app/
 
 ### 🛠 Tecnologias
 
